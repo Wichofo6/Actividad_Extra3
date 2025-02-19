@@ -1,0 +1,3 @@
+En esta unidad aprendimos sobre la base del código de la maquina desde como lee la maquina los comando que le enviamos por medio del código binario en formato ascii o formato Unicode según sea el caso 
+
+También practicamos sobre algoritmos para entender el paso a paso que un programa debe hacer y detallar que queremos que realice el programa

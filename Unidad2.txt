@@ -1,0 +1,3 @@
+En esta unidad ya iniciamos con la programación básica en java script aprendiendo desde que son variables constantes y todo lo relacionado a su uso correcto.
+
+Adicional a esto aprendimos sobre los ciclos y su estructura con las tareas reforzamos el como usarlos y como ejecutarlos
